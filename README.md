@@ -17,8 +17,7 @@
 + 实现多页滑动效果：ViewPager + Fragment + TabLayout
 + 侧滑栏效果：DrawerLayout + NavigationView
 + 加载效果：ProgressBar或者ProgressDialog
-+ 必须具有网络请求，JSON数据获取与解析（okhttp、H
-ttpClient等均可）
++ 必须具有网络请求，JSON数据获取与解析（okhttp、HttpClient等均可）
 
 **以下为加分项（选做）**
 
